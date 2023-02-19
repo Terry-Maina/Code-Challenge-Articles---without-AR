@@ -7,9 +7,9 @@ end
 
 ###  WRITE YOUR TEST CODE HERE ###
 ### Author class initialization test
-sylvia = Author.new("Sylvia")
-taner = Author.new("Taner")
-mongina = Author.new("Mongina")
+Tessy = Author.new("Tessy")
+taner = Author.new("Tati")
+mongina = Author.new("Raore")
 
 ### Magazine class initialization test
 new_york_times = Magazine.new("New York Times", "News")
