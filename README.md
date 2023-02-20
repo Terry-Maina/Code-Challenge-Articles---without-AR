@@ -1,6 +1,6 @@
 Articles-Without-AR-Code-Challenge
 Week 2 Code Challenge.
-Author : Tessy Maina 18-02-2023
+Author : Tessy Maina 17-02-2023
 Object Relations Code Challenge - Articles
 For this assignment, you will be working with a Magazine domain.
 
