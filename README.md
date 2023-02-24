@@ -24,18 +24,16 @@ For our purposes, an `Author` has many `Article`s, a `Magazine` has many `Articl
 
 ## Instructions
 
-To get started, run `bundle install` while inside of this directory.
-
 clone this repository on your local machine by clicking on this link https://github.com/Terry-Maina/Code-Challenge-Articles---without-AR.git
 
 cd into Challenge-Articles---without-AR then open vscode by running code . on the terminal
 
-run bundle install while inside of this directory.
+To get started, run `bundle install` while inside of this directory.
 
 Run ruby tools/console.rb on the terminal to interact with the app.
 
 You should be able to see something like this 
-<img width="901" alt="Screenshot 2023-02-24 at 06 20 36" src="https://user-images.githubusercontent.com/108924130/221084042-54c3229d-15c0-453e-9cb9-f0ae62e2dfeb.png">
+<img width="700" alt="Screenshot 2023-02-24 at 07 23 26" src="https://user-images.githubusercontent.com/108924130/221091309-65c57092-fdd3-40b5-ae94-e276f6031e18.png">
 
 Once the pry prompt type article1
 
